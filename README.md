@@ -23,3 +23,5 @@ Instructions for use are in the comments in-patch.
 [Zip file with audio for each instrument, plus patch.] (https://www.dropbox.com/s/bbdkk8878vyzfvp/Semblance_Audioplayer.zip?dl=0)
 
 [Semblance of a Whole (b), fixed-media version] (https://soundcloud.com/vince-giles/a-semblance-of-a-wholeb)
+
+[Zip file with master audio for each instrument with guide clicks only at structurally or temporally important points.] (https://www.dropbox.com/s/fedqspge65kc8qy/Master_Audioplayer.zip?dl=0)
