@@ -27,6 +27,6 @@ There are two patch files here. The first: *Semblance_Audioscore.pd* corresponds
 
 [Zip file with audio for each instrument, plus patch. (For Rehearsal)] (https://www.dropbox.com/s/36q18rxjpw5ffvv/Semblance_Audioplayer.zip?dl=0)
 
-[Zip file with collated audio for each instrument, plus patch. (For performance)] (https://www.dropbox.com/s/pc21gbqtn84dhfs/SemblancePerformanceScore.zip?dl=0)
+[Zip file with collated audio for each instrument, no patch. See above for patch. (For performance)] (https://www.dropbox.com/s/pc21gbqtn84dhfs/SemblancePerformanceScore.zip?dl=0)
 
 [Semblance of a Whole (b), fixed-media version] (https://soundcloud.com/vince-giles/a-semblance-of-a-wholeb)
