@@ -25,8 +25,8 @@ There are two patch files here. The first: *Semblance_Audioscore.pd* corresponds
 
 **Downloads and Links:**
 
-[Zip file with audio for each instrument, plus patch. (For Rehearsal)] (https://www.dropbox.com/s/36q18rxjpw5ffvv/Semblance_Audioplayer.zip?dl=0)
+[Zip file with audio for each instrument, plus patch. (For Rehearsal, sections split)] (https://www.dropbox.com/pri/get/composition/2015/uncommonplacesii/a%20semblance%20of%20a%20whole%20project/scores/AudioScores/Semblance_Audioplayer.zip?_subject_uid=201323689&w=AACKAWHPnFbMQVWqfhVFSIZAGnNQRgKA_zP5DP35V-WsSA)
 
-[Zip file with collated audio for each instrument, no patch. See above for patch. (For performance)] (https://www.dropbox.com/s/pc21gbqtn84dhfs/SemblancePerformanceScore.zip?dl=0)
+[Zip file of individual instruments with structural click tracks. (For performance; can be sequenced with DAW or )] (https://www.dropbox.com/s/kriareojhi1jptn/Ind_inst_with_section_clicks.zip?dl=0)
 
 [Semblance of a Whole (b), fixed-media version] (https://soundcloud.com/vince-giles/a-semblance-of-a-wholeb)
