@@ -30,3 +30,5 @@ There are two patch files here. The first: *Semblance_Audioscore.pd* corresponds
 [Zip file of individual instruments with structural click tracks. (For performance; can be sequenced with DAW or )] (https://www.dropbox.com/s/kriareojhi1jptn/Ind_inst_with_section_clicks.zip?dl=0)
 
 [Semblance of a Whole (b), fixed-media version] (https://soundcloud.com/vince-giles/a-semblance-of-a-wholeb)
+
+[Zip file with master audio for each instrument with guide clicks only at structurally or temporally important points.] (https://www.dropbox.com/s/fedqspge65kc8qy/Master_Audioplayer.zip?dl=0)
