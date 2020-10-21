@@ -1,6 +1,6 @@
 # Semblance of a Whole: Audioplayer
 ## For ensemble with audio score.
-## For Pure Data Extended
+## For Pure Data Extended (last tested in 2015, may work with newer versions such as Purr Data or even vanilla)
 ### Audio Score Player Patch for Semblance of a Whole (Giles, 2015).
 ### Audio Score Rehearsal Patch for Semblance of a Whole (Giles, 2015).
 
@@ -25,7 +25,7 @@ There are two patch files here. The first: *Semblance_Audioscore.pd* corresponds
 
 **Downloads and Links:**
 
-[Zip file with audio for each instrument, plus patch. (For Rehearsal, sections split)] (https://www.dropbox.com/pri/get/composition/2015/uncommonplacesii/a%20semblance%20of%20a%20whole%20project/scores/AudioScores/Semblance_Audioplayer.zip?_subject_uid=201323689&w=AACKAWHPnFbMQVWqfhVFSIZAGnNQRgKA_zP5DP35V-WsSA)
+[Zip file with audio for each instrument, plus patch. (For Rehearsal, sections split)] (https://drive.google.com/file/d/1od2RO5C8zN2oc6yUcem1kN7n7XIDvG7E/view?usp=sharing)
 
 [Zip file of individual instruments with structural click tracks. (For performance; can be sequenced with DAW or )] (https://www.dropbox.com/s/kriareojhi1jptn/Ind_inst_with_section_clicks.zip?dl=0)
 
